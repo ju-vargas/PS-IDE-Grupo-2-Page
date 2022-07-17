@@ -194,6 +194,7 @@ header {
     width: 100%;
     font-size: 20px;
     margin-bottom: 40px;
+    background-color: yellow;
     /*margin-top: 100px;*/
 }
 
@@ -202,7 +203,7 @@ header {
     /*position: absolute;*/
     margin: auto;
     /*margin-top: 40px;*/
-    width: 140px;
+   /* width: 140px;*/
     height: 21px;
     top: 36px;
     margin-bottom: 60px;
