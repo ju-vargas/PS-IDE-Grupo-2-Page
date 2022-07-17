@@ -70,7 +70,7 @@ header {
     grid-area: 1 / 1 / 4 / 4;
     z-index: -1;
     max-width: 100%;
-    width: 100%;
+    /*width: 100%;*/
     height: auto;
 }
 
